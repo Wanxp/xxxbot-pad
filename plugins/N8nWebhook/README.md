@@ -81,8 +81,9 @@ auth-value= "sk-0ZxCTjjCsPoZEK"
 ### n8n 处理demo
 1. 打开n8n
 2. 将下面的json复制保存到本地文件，并以json作为后缀名
-3. 开启并配置当前插件
-4. 发送消息"n:a:你好"
+3. 在n8n中导入该json文件
+4. 开启并配置当前插件
+5. 发送消息"n:a:你好"
 
 ```json
 {
